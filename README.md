@@ -1,20 +1,39 @@
-# 💫 About Me:
-<br>I am currently working on **an AI voice agent system for Indian-language receptionists** and growing **Momentum AI**<br><br>I am looking to collaborate on **open-source AI/ML projects, voice tech, or startup ideas at the intersection of LLMs and real-world deployment**<br><br>I am looking for help with **fine-tuning TTS models on Indian language datasets and low-latency STT-LLM-TTS pipelines**<br><br>I am currently learning **agentic AI systems, full-stack product development, and competitive programming (grinding LeetCode & Codeforces)**<br><br>
+# Hey, I'm Keshav
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_keshav_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-raj-36543b317) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Keshav92699960) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajkeshavmi4@gmail.com) 
+I'm a second-year B.Tech student in Environmental Engineering at Delhi Technological University (department rank 1), but most of my time goes into C++, algorithms, and building things that actually ship.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajkeshavmi4&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rajkeshavmi4&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajkeshavmi4&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What I'm up to
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajkeshavmi4&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+**Momentum AI**
+I co-founded a conversational voice AI company that handles customer support and outbound sales calls. I run go-to-market and client acquisition across real estate, D2C, and BFSI, which means I spend a lot of time figuring out where voice agents actually save businesses money and where they fall short.
 
----
-[![](https://komarev.com/ghpvc/?username=rajkeshavmi4&icon=0&color=0)](https://visitcount.itsvg.in)
+**TermiTrade**
+A terminal-based stock portfolio tracker written in C++. It pulls live market data over REST using libcurl, parses responses with nlohmann/json, and renders an interactive TUI with FTXUI. I designed the whole thing myself, from the API integration and data fetching to the layout and portfolio computation logic. The project site is live at termitrade.netlify.app.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Raag origins research**
+Selected for the Indian Knowledge System Internship Program 2026 under the IKS Division, Ministry of Education. The project is "Analyzing the Raag Origins of Indian Traditional Folk Music," where I work on the overlap between computational methods and musicology.
+
+## Competitive programming
+
+I solve problems on LeetCode regularly and hold a contest rating of ~2063. Dynamic programming, graph algorithms, and combinatorics are where I'm strongest. It keeps my fundamentals sharp and shows up directly in how I design systems.
+
+## Tech stack
+
+- **Languages:** C++ (primary), Python, C
+- **Libraries:** FTXUI, libcurl, nlohmann/json, STL
+- **Tools:** Git, GitHub, VS Code, Linux/Bash, Netlify
+- **Core CS:** data structures and algorithms, recursion, dynamic programming, graph theory, OOP
+
+## Where I've worked
+
+- Co-Founder, Momentum AI (May 2026 to present)
+- ML Research Intern, Ministry of Education (Jun to Jul 2026)
+- Business Strategy Intern, High On Content (Sep 2025 to Jan 2026)
+- Senior Associate, IFSA DTU (Sep 2025 to present)
+
+## Let's talk
+
+I'm always up for conversations about systems programming, voice AI, and research problems that mix computation with real-world data.
+
+- LinkedIn: linkedin.com/in/keshav-raj-36543b317
+- Email: rajkeshavmi4@gmail.com
