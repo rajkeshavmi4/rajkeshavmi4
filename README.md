@@ -1,6 +1,6 @@
 # Hey, I'm Keshav
 
-I'm a second-year B.Tech student in Environmental Engineering at Delhi Technological University (department rank 1), but most of my time goes into C++, algorithms, and building things that actually ship.
+I'm a Sophomore at Delhi Technological University (department rank 1), but most of my time goes into C++, algorithms, and building things that actually ship.
 
 ## What I'm up to
 
